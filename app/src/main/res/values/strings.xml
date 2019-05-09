@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment4App</string>
+    <string name="temp_converter">Temp Converter</string>
+    <string name="textview">TextView</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celsius</string>
+</resources>
